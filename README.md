@@ -10,6 +10,5 @@
 - Solving Data structure and algorithm questions in **C++ and Python**
 
 
-### 🔥 Contributions
----
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=javasxz&theme=dark&border_radius=3.5&card_width=450)](https://github.com/anuraghazra/github-readme-stats)
+## 🔥 Contributions
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=javasxz&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
