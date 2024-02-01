@@ -11,4 +11,4 @@
 
 
 ## 🔥 Contributions
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=javasxz&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=javasxz&layout=compact&theme=dark&card_width=400)](https://github.com/anuraghazra/github-readme-stats)
